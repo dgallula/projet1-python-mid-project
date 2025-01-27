@@ -1,8 +1,7 @@
 synthese du projet 
 
 
-Voici une synthèse de ton projet basée sur les informations que tu m'as fournies jusqu'à présent :
-
+ 
 Résumé du Projet : Système de Gestion de Bibliothèque
 Ce projet consiste à développer un système de gestion de bibliothèque avec une interface utilisateur permettant de gérer des livres, des étagères, des lecteurs, et d'interagir avec une base de données MongoDB pour stocker et récupérer les informations. L'objectif est de fournir une plateforme permettant à un employé de gérer les livres de la bibliothèque, les lecteurs, et de maintenir les données synchronisées avec MongoDB.
 
